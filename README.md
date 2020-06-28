@@ -1,3 +1,5 @@
+#**BIG THANKS TO [Dave](https://github.com/DavidBakerEffendi/yelp-normalization) for everything except the python notebooks**
+
 # TigerGraph Yelp Dataset Solution
 
 Contains the GSQL scripts and TigerGraph solution tarball to import and model the Yelp challenge dataset using
