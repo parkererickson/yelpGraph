@@ -1,4 +1,4 @@
-#**BIG THANKS TO [Dave](https://github.com/DavidBakerEffendi/yelp-normalization) for everything except the python notebooks**
+# **BIG THANKS TO [Dave](https://github.com/DavidBakerEffendi/yelp-normalization) for everything except the python notebooks**
 
 # TigerGraph Yelp Dataset Solution
 
